@@ -1,4 +1,4 @@
-# economia_juanpa
+# Mapas Introducción a la Economía
 Mapas Introducción a la Economía
 
-# Mapas para visualización de indicadores economicos
+## Mapas para visualización de indicadores economicos
