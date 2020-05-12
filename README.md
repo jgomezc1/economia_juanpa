@@ -1,6 +1,6 @@
 # Mapas Introducción a la Economía
 
-[![Binder](https://mybinder.org/v2/gh/jgomezc1/economia_juanpa/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgomezc1/economia_juanpa/master)
 
 Mapas Introducción a la Economía
 
