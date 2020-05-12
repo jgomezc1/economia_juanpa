@@ -11,10 +11,10 @@ dependencies:
   - ipython
   - spyder
   - ipykernel
-  -pandas
-  -geopandas
-  -json
-  -bokeh
+  - pandas
+  - geopandas
+  - json
+  - bokeh
   - pip
   - pip:
     - meshio==3.0
